@@ -29,4 +29,5 @@ A simple Java console game where the player navigates a maze represented by a 2D
 
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/princess-rescue.git](https://github.com/Msdtek/-Matrix-Based-Princess-Rescue-Game-)
+   git clone https://github.com/Msdtek/-Matrix-Based-Princess-Rescue-Game-.git
+
