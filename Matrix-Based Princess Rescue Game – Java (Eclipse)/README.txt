@@ -6,7 +6,7 @@ A simple Java console game where the player navigates a maze represented by a 2D
 
 - **Muhammed Sadık Tekbaş** – Lead Developer, Game Logic  
 - **Erva Ergül** – Lead Developer, Game Logic  
-- **Büşra İnan ** – Lead Developer, Game Logic   
+- **Büşra İnan** – Lead Developer, Game Logic   
 - **Hilal Calp** – Lead Developer, Game Logic   
 
 *This project was developed collaboratively by our team.*
@@ -29,4 +29,5 @@ A simple Java console game where the player navigates a maze represented by a 2D
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/YOUR_USERNAME/princess-rescue.git
+   git clone https://github.com/Msdtek/-Matrix-Based-Princess-Rescue-Game-.git
+
