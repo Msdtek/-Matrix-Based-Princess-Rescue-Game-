@@ -5,7 +5,7 @@ A simple Java console game where the player navigates a maze represented by a 2D
 ## 👥 Contributors / Team
 
 - **Muhammed Sadık Tekbaş** – Lead Developer, Game Logic  
-- **Erva Ergül** – Lead Developer, Game Logic  
+- **Erva Ergül** – Lead Developer, Game Logic   https://github.com/ervae
 - **Büşra İnan** – Lead Developer, Game Logic   
 - **Hilal Calp** – Lead Developer, Game Logic   
 
